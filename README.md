@@ -44,12 +44,26 @@ Heatmaps were generated from the weighted adjacency matrices for each method and
 - Stronger intra-sector clustering is observed.
 
 ### Pearson Correlation Heatmaps
-
+<p align="center">
+Heatmap for Pearson correlation in Period 1 (01/03/2019 – 29/02/2020)
+</p>
 <p align="center">
   <img src="corr_matrices_pearson/stocks1_diff_matrix_of_correlations.png" width="450">
+</p>
+<p align="center">
+Heatmap for Pearson correlation in Period 2 (01/03/2020 – 28/02/2021, COVID-19 crisis)
+</p>
+<p align="center">
   <img src="corr_matrices_pearson/stocks2_diff_matrix_of_correlations.png" width="450">
+</p>
+
+<p align="center">
+Heatmap for Pearson correlation in Period 3 (01/03/2021 – 28/02/2022)
+</p>
+<p align="center">
   <img src="corr_matrices_pearson/stocks3_diff_matrix_of_correlations.png" width="450">
 </p>
+
 
 
 ### Mutual Information
@@ -62,11 +76,24 @@ Heatmaps were generated from the weighted adjacency matrices for each method and
 ### Mutual Information Heatmaps
 
 <p align="center">
+Heatmap for Mutual Information in Period 1 (01/03/2019 – 29/02/2020)
+</p>
+<p align="center">
   <img src="corr_matrices_mutual_information/stocks1_diff_matrix_of_MI.png" width="450">
+</p>
+<p align="center">
+Heatmap for Mutual Information in Period 2 (01/03/2020 – 28/02/2021, COVID-19 crisis)
+</p>
+<p align="center">
   <img src="corr_matrices_mutual_information/stocks2_diff_matrix_of_MI.png" width="450">
-  <img src="corr_matrices_mutual_information/stocks3_diff_matrix_of_MI.png" width="450">
 </p>
 
+<p align="center">
+Heatmap for Mutual Information in Period 3 (01/03/2021 – 28/02/2022)
+</p>
+<p align="center">
+  <img src="corr_matrices_mutual_information/stocks3_diff_matrix_of_MI.png" width="450">
+</p>
 
 ## Key Findings
 
